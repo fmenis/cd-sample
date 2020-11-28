@@ -1,0 +1,21 @@
+{
+    "esversion": 9,
+    "node": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "freeze": true,
+    "latedef": false,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "loopfunc": true,
+    "varstmt": true,
+    "leanswitch": true,
+    "maxdepth": 5,
+    "maxparams": 5,
+    "nonbsp": true,
+    "nonew": true,
+    "regexpu": true,
+    "singleGroups": true
+}
